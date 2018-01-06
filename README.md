@@ -6,4 +6,4 @@ It is built using requirejs:
 
 r.js -o build.js
 
-Play it here: http://www.symmetrical-cow.com/catch-the-birdie-html5-game/
+Play it here: http://symmetrical-cow.co.uk/games/catch-the-birdie/
